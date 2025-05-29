@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌩 **Master’s in Cloud Computing** from Woolf University via AlmaBetter  
+- 🌩 **Master’s in Cloud Computing** from Woolf University (Europe) 
 - 🛠 I love building **production-ready full-stack applications** using the MERN stack  
 - 🧠 Currently exploring **Socket.io**, **Cloud Services**, and **Advanced Backend Architectures**  
 - 📝 I write tech blogs and a beginner’s guide: [What is Full Stack Web Development](https://tinyurl.com/fswd01)
