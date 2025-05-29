@@ -46,21 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandIsCoding&show_icons=true&theme=radical" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandIsCoding&theme=radical" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandIsCoding&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
