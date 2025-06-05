@@ -29,22 +29,6 @@
 
 ---
 
-### 💼 Projects
-
-#### 🏥 [Doctor Appointment Booking System](https://dochealth.onrender.com)
-> A full-stack appointment booking platform using MERN Stack  
-- JWT authentication, role-based access  
-- Redux Toolkit, Lazy loading  
-- Swagger API Docs  
-- Cloudinary Image Uploads
-
-#### 🛒 [E-Commerce Application](https://myshopcluess.web.app)
-> Scalable MERN e-commerce platform with full authentication flow  
-- Search suggestions, cart, checkout  
-- Firebase frontend, Render backend  
-- Admin panel in progress
-
----
 
 
 ### 📫 Let's Connect
