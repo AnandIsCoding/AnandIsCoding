@@ -11,8 +11,6 @@
 
 - 🌩 **Master’s in Cloud Computing** from Woolf University (Europe) 
 - 🛠 I love building **production-ready full-stack applications** using the MERN stack  
-- 🧠 Currently exploring **Socket.io**, **Cloud Services**, and **Advanced Backend Architectures**  
-- 📝 I write tech blogs and a beginner’s guide: [What is Full Stack Web Development](https://tinyurl.com/fswd01)
 
 ---
 
@@ -36,8 +34,6 @@
 - 🌐 Portfolio: [anandjii.web.app](https://anandjii.web.app)
 - 📧 Email: [anandkumarj669@gmail.com](mailto:anandkumarj669@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/anandjhaji](https://www.linkedin.com/in/anandjhaji)
-- 🧑‍💻 GitHub: [github.com/AnandIsCoding](https://github.com/AnandIsCoding)
-
 ---
 
 > ✨ “Building clean, scalable and real-time web apps with passion.”  
